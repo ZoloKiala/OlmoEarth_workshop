@@ -4,8 +4,8 @@ Ai2 **OlmoEarth** fine-tuning workshop use case (IWMI).
 
 Fine-tune the OlmoEarth foundation model to map **monthly dry-season (May–Sep) irrigated
 areas at 10 m** in the **Limpopo River Basin** from **Sentinel-1 + Sentinel-2**. This is the
-deep-learning successor to our published Random Forest system (Kiala et al. 2026; RF baseline
-OA 0.80 / κ 0.60). Best OlmoEarth model: **OA 0.874 / κ 0.748** (spatial CV on 190 field points).
+deep-learning successor to our published Random Forest system ([Kiala et al. 2026](https://doi.org/10.1007/s43832-026-00360-z);
+RF baseline OA 0.80 / κ 0.60). Best OlmoEarth model: **OA 0.874 / κ 0.748** (spatial CV on 190 field points).
 
 ## Open in Colab
 
