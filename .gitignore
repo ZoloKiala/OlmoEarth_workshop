@@ -1,0 +1,7 @@
+tethys-app-*.json
+*.pt
+*.npz
+zenodo_*/
+__pycache__/
+*.tif
+.ipynb_checkpoints/
